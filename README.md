@@ -1,4 +1,3 @@
-<img width="1172" alt="blockCipher" src="https://user-images.githubusercontent.com/43756346/116833320-b8824300-ab75-11eb-9b8e-b2871e466d10.png">
 # EncryptionBlockCipher
 
 #A block cipher method called chaining to make a much more secure ciphertext message.
